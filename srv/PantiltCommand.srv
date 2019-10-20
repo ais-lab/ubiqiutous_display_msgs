@@ -1,0 +1,8 @@
+std_msgs/Float64 pan_speed
+std_msgs/Float64 tilt_speed
+std_msgs/Float64 pan_degree
+std_msgs/Float64 tilt_degree
+
+---
+
+std_msgs/Bool result
