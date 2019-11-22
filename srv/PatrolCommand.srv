@@ -1,0 +1,5 @@
+geometry_msgs/Pose goal_position
+std_msgs/String point
+---
+
+std_msgs/Bool result
