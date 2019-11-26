@@ -59,6 +59,7 @@ add_service_files(
   YoubotCommand.srv
   PantiltCommand.srv
   PatrolCommand.srv
+  SmachCommand.srv
 )
 
 ## Generate actions in the 'action' folder
